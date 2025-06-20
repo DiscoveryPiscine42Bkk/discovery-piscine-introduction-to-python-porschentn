@@ -1,3 +1,5 @@
+tasks = []
+
 def show_menu():
     print("\n====== Smart Farm Task Organizer ======")
     print("1. เพิ่มงานในฟาร์ม")
